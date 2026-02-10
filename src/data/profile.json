@@ -1,0 +1,87 @@
+{
+  "name": "M Zayyan Abdillah",
+  "role": "Backend Developer",
+  "bio": "I'm interested in software development, now starting to learn networking and building local home servers.",
+  "photo": "https://ui-avatars.com/api/?name=Muhammad+Zayyan+Abdillah&background=2563eb&color=fff&size=256",
+  "experience": [
+    {
+      "company": "PT Infosys Solusi Terpadu",
+      "role": "Backend Developer",
+      "duration": "May 2023 - Present",
+      "description": "Leading backend development for Bank CIMB Niaga's OCTO Mobile platform. Delivering enterprise-scale banking features including fraud detection, insurance integration, and automated payment systems.",
+      "highlights": [
+        "Fraud detection feature for transaction security",
+        "Sun Life Insurance system integration",
+        "Auto-debit feature for BPJS Kesehatan payments",
+        "Transaction installment conversion feature",
+        "Digital-to-physical credit card generation"
+      ]
+    },
+    {
+      "company": "PT Multidaya Integra",
+      "role": "Backend Developer",
+      "duration": "Dec 2021 - Feb 2023",
+      "description": "Worked on diverse projects spanning government and military sectors. Proficient in Java, Python, and Node.js with daily agile practices.",
+      "highlights": [
+        "Bea Cukai: REST APIs with Spring Boot, Oracle, HBase",
+        "TNI AL: Microservices with Python Flask, OpenSearch, Big Data analytics",
+        "BPOM: DevOps Engineer with CI/CD pipelines and Docker containerization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitas Terbuka",
+      "degree": "Information Systems",
+      "duration": "2024 - Present"
+    },
+    {
+      "institution": "SMAN 2 Semarang",
+      "degree": "Math & Science",
+      "duration": "2017 - 2020"
+    }
+  ],
+  "about": {
+    "journey": "I started my backend development journey in December 2021, diving deep into building robust systems and APIs. What began as learning Java Spring Boot quickly evolved into a passion for the entire backend ecosystem — from database optimization to container orchestration.",
+    "focus": "Today, I'm expanding beyond code into infrastructure. I'm building my own home server lab, learning networking fundamentals, and automating everything I can with tools like n8n and Docker. I believe great backend developers understand the full stack — from application logic to the physical network.",
+    "approach": "I enjoy solving complex problems with clean, maintainable solutions. Whether it's designing a microservice architecture or configuring reverse proxies, I focus on reliability and performance. My unique blend of backend expertise and networking knowledge helps me build systems that just work.",
+    "milestones": [
+      { "label": "Started Backend", "year": "2021" },
+      { "label": "Java & Spring Boot", "year": "2022" },
+      { "label": "Docker & DevOps", "year": "2023" },
+      { "label": "Home Lab & Network", "year": "2024" },
+      { "label": "Growth & Scale", "year": "2025" }
+    ],
+    "focusAreas": [
+      {
+        "title": "Backend Development",
+        "icon": "code",
+        "items": ["Java Spring Boot", "NestJS", "API Design"]
+      },
+      {
+        "title": "DevOps & Infrastructure",
+        "icon": "server",
+        "items": ["Docker", "Linux", "CI/CD", "Monitoring"]
+      },
+      {
+        "title": "Networking",
+        "icon": "network",
+        "items": ["LAN Setup", "Nginx/Caddy", "Home Server"]
+      }
+    ]
+  },
+  "skills": [
+    "Java Spring Boot",
+    "NestJS",
+    "Docker",
+    "Redis",
+    "PostgreSQL",
+    "n8n",
+    "Linux Server",
+    "LAN Setup",
+    "Basic Networking",
+    "Nginx",
+    "Caddy",
+    "Grafana"
+  ]
+}
