@@ -1,56 +1,11 @@
 [
   {
     "id": 1,
-    "title": "E-Commerce Dashboard",
+    "title": "Queue Management System",
     "description": "A modern admin dashboard for managing products, orders, and customers with real-time analytics.",
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-    "tags": ["Vue.js", "Tailwind CSS", "Chart.js"],
-    "demoUrl": "https://demo.example.com",
-    "repoUrl": "https://github.com/example/ecommerce-dashboard"
-  },
-  {
-    "id": 2,
-    "title": "Task Management App",
-    "description": "Collaborative task manager with drag-and-drop boards, team assignments, and progress tracking.",
-    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
-    "tags": ["React", "TypeScript", "Firebase"],
-    "demoUrl": "https://demo.example.com",
-    "repoUrl": "https://github.com/example/task-app"
-  },
-  {
-    "id": 3,
-    "title": "Weather Forecast API",
-    "description": "Restful API service providing weather data with caching, rate limiting, and multiple provider integration.",
-    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=600&h=400&fit=crop",
-    "tags": ["Node.js", "Express", "Redis"],
-    "demoUrl": "https://demo.example.com",
-    "repoUrl": "https://github.com/example/weather-api"
-  },
-  {
-    "id": 4,
-    "title": "Portfolio Website",
-    "description": "Clean and minimal personal portfolio showcasing projects with smooth animations.",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
-    "tags": ["Vue.js", "Vite", "GSAP"],
-    "demoUrl": "https://demo.example.com",
-    "repoUrl": "https://github.com/example/portfolio"
-  },
-  {
-    "id": 5,
-    "title": "Chat Application",
-    "description": "Real-time messaging app with private rooms, file sharing, and message reactions.",
-    "image": "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=600&h=400&fit=crop",
-    "tags": ["Socket.io", "React", "MongoDB"],
-    "demoUrl": "https://demo.example.com",
-    "repoUrl": "https://github.com/example/chat-app"
-  },
-  {
-    "id": 6,
-    "title": "Blog Platform",
-    "description": "Markdown-based blogging platform with syntax highlighting, SEO optimization, and RSS feeds.",
-    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&h=400&fit=crop",
-    "tags": ["Nuxt.js", "Markdown", "Netlify"],
-    "demoUrl": "https://demo.example.com",
-    "repoUrl": "https://github.com/example/blog-platform"
+    "image": "https://github.com/user-attachments/assets/29ece95c-509a-4b99-9e25-3e4fcfb6a407",
+    "tags": ["Vue.js", "Tailwind CSS", "Nest.js", "Socket.io"],
+    "demoUrl": "https://qms.zayyanabdillah.com/kiosk",
+    "repoUrl": "https://github.com/Yayanjay/queue-management-system"
   }
 ]
