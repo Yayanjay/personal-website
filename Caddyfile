@@ -1,4 +1,4 @@
-:80 {
+:5173 {
     root * /var/www/html
     encode gzip
     handle * {

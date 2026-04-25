@@ -3,7 +3,7 @@
 REPO_URL="https://github.com/Yayanjay/personal-website.git"
 CLONE_DIR="/home/zayyan/application/personal-website"
 CONTAINER_NAME="personal-website"
-HOST_PORT="8080"
+HOST_PORT="5173"
 
 if [ -d "$CLONE_DIR" ]; then
     echo "Repository already exists. Pulling latest changes..."
