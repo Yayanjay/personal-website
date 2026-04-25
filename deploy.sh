@@ -23,7 +23,7 @@ docker rm -f "$CONTAINER_NAME" 2>/dev/null
 echo "Starting container..."
 docker run -d \
     --name "$CONTAINER_NAME" \
-    -p "$HOST_PORT":80 \
+    --network=host \
     --restart always \
     "$CONTAINER_NAME"
 

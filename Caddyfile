@@ -1,6 +1,7 @@
 :5173 {
     root * /var/www/html
     encode gzip
+    bind 0.0.0.0
     handle * {
         try_files {path} /index.html
     }
